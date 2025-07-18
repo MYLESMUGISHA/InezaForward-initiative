@@ -2,8 +2,7 @@
 
 > **From Refugee to Tech Leader** - Transforming lives through comprehensive tech education, mentorship, and sustainable career pathways.
 
-## 📋 Table of Contents
-
+## 📋 Table of Contents 
 - [About](#about)
 - [Features](#features)
 - [Demo](#demo)
